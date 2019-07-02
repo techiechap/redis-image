@@ -1,2 +1,2 @@
 # redis-image
-Create redis-image from alpine
+Create redis-image from alpine base image
